@@ -23,7 +23,7 @@ SZU-Campus-GLVI dataset specifically covers avariety of severely degraded scenar
 
 The dataset is available at:
 
-> [**Download Link**](https://example.com) *(to be updated)*
+> [**Download Link**]([https://example.com](https://zenodo.org/records/20604187?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjllNGY3MDlmLTc3M2EtNGYzMC1iM2NiLTk0ZTlkOTRmODYwYyIsImRhdGEiOnt9LCJyYW5kb20iOiIyOTQzYmRiMzIwNjEzYjNhM2RiNDRmNmJkMWY4ZWZlZiJ9.a6RJ92OwZIxU1qpDlZ6AHsvyBBWM8Jut8-0d-OvXJ0praNU1MAxrkyUKxvwhybMe5MPfVwHWjd8eMXaIVdmuIQ)) 
 
 Each sequence is packaged as a ROS `.bag` file. See the [Data Structure](#data-structure) section for details.
 
